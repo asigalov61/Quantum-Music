@@ -1,4 +1,5 @@
 # Quantum-Music
+
 ## Quantization is all you need
 
 ***
@@ -31,8 +32,21 @@
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/asigalov61/Quantum-Music/blob/main/Quantum_Music.ipynb>
+[colab-notebook]: <https://colab.research.google.com/github/asigalov61/Quantum-Music/blob/main/Quantum_Music.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
+***
+
+### Citation
+
+```bibtex
+@inproceedings{lev2021quantummusic,
+    title       = {Quantum Music},
+    author      = {Aleksandr Lev},
+    booktitle   = {GitHub},
+    year        = {2021},
+}
+```
 
 ***
 

@@ -37,6 +37,12 @@
 
 ***
 
+### Similar projects:
+
+#### [Maqenta](https://github.com/theerfan/Maqenta)
+
+***
+
 ### Citation
 
 ```bibtex

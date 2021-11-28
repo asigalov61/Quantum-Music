@@ -27,7 +27,12 @@
 
 ### Examples of proposed Music Quatization:
 
-#### See full example colab notebooks in the repo
+#### See full examples colab notebooks in the repo or click below...
+
+[![Open In Colab][colab-badge]][colab-notebook]
+
+[colab-notebook]: <https://colab.research.google.com/asigalov61/Quantum-Music/blob/main/Quantum_Music.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
 

@@ -16,9 +16,18 @@
 
 ***
 
+### Proposed solutions:
+
+1) Tokenized Sparse Time Quantization
+2) Tokenized Sparse Pitches Quantization
+3) If possible and resultative, Full Tokenized Sparse Quantization
+
+
+***
+
 ### Examples of proposed Music Quatization:
 
-...
+#### See full example colab notebooks in the repo
 
 ***
 
